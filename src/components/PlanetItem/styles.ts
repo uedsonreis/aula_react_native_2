@@ -4,7 +4,7 @@ export default StyleSheet.create({
 
     container: {
         padding: 15,
-        borderTopWidth: 1,
+        borderBottomWidth: 1,
         flexDirection: 'row',
         justifyContent: 'space-between',
         width: Dimensions.get('screen').width,
